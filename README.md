@@ -1,11 +1,11 @@
 ![logo](https://github.com/HELENTRISHA/helentrisha/blob/2228cdf0d228d48b3c775b7379f439acb6fd6d09/banner.png)
-<h1 align="center">Hi 👋, I'm Helen Trisha Laurencine Ndiaye, but you can call me Helen</h1>
-<h3 align="center">🎨a dynamic web developer and digital artist obsessed with creative design.🚀🌈</h3>
-<img align="right" alt="coding" width="250" src="https://github.com/HELENTRISHA/helentrisha/blob/8fb79325698849174436f1f777f0e41398bd3aed/githubanime.gif">
+<h1 align="center">Hi 👋, I'm Helen Trisha Laurencine Ndiaye</h1>
+<h3 align="center">🎨a dynamic web developer and digital artist obsessed with creative design. I love blending code and canvas to create captivating digital experiences. React.js is my go-to for turning ideas into reality with style. Let's team up and bring your digital dreams to life! 🚀🌈</h3>
+
+<img align="right" alt="coding" width="200" src="https://github.com/HELENTRISHA/helentrisha/blob/8fb79325698849174436f1f777f0e41398bd3aed/githubanime.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helentrisha&label=Profile%20views&color=0e75b6&style=flat" alt="helentrisha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helentrisha" alt="helentrisha" /></a> </p>
 
 - 🔭 I’m currently working on **Identity Spirit , Alilobe, Let'think,DIL Digital Immigrants Library**
 
@@ -18,8 +18,6 @@
 - 👨‍💻 All of my projects are available at [updating](updating)
 
 - 📝 I regularly write articles on [whyidentityspirit.blogspot.com](whyidentityspirit.blogspot.com)
-
-- I a dynamic web developer and digital artist obsessed with creative design. I love blending code and canvas to create captivating digital experiences. 
 
 - 💬 Ask me about **C#, ASP.NET JavaScript, HTML/CSS, Node & Express, React, DOM #agile, Create a backlog #SCRUM, Plantasks, Apply #UX/UI best practices,Create wireframes, Build a website using#HTML5, Enhance the user experience with JavaScriptand React, Create a responsive interface using#CSS3,Deploy web projects with #Express, Design and implement Database#SQL/#NoSQL, Develop an#APIand interface it with applications,Work in teams and collaborate using #Git& #GitHub.**
 
@@ -49,5 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helentrisha&show_icons=true&locale=en" alt="helentrisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helentrisha&" alt="helentrisha" /></p>
+
 
 
