@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Angular, Mongo DB, Vite, CSS++, python**
 
-- 👯 I’m looking to collaborate on [.scratch](https://dotscratch.netlify.app/,)
+- 👯 I've collaborated on numerous projects, let me take you back to how it all began... [.scratch](https://dotscratch.netlify.app/,)
 
 - 🤝 I’m looking for help with [DIL Digital Immigrants Library](https://www.canva.com/design/DAFjYfLj30E/0oysosZkVtn951ASE5V2Jw/edit?utm_content=DAFjYfLj30E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 👨‍💻 All of my projects are available at [updating](updating)
 
-- 📝 I regularly write articles on [whyidentityspirit.blogspot.com](whyidentityspirit.blogspot.com)
+- 📝 I write articles on [whyidentityspirit.blogspot.com](whyidentityspirit.blogspot.com)
 
 - 💬 Ask me about **C#, ASP.NET JavaScript, HTML/CSS, Node & Express, React, DOM #agile, Create a backlog #SCRUM, Plantasks, Apply #UX/UI best practices,Create wireframes, Build a website using#HTML5, Enhance the user experience with JavaScriptand React, Create a responsive interface using#CSS3,Deploy web projects with #Express, Design and implement Database#SQL/#NoSQL, Develop an#APIand interface it with applications,Work in teams and collaborate using #Git& #GitHub.**
 
