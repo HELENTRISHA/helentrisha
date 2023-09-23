@@ -1,3 +1,4 @@
+![logo](https://github.com/HELENTRISHA/helentrisha/blob/2228cdf0d228d48b3c775b7379f439acb6fd6d09/banner.png)
 <h1 align="center">Hi 👋, I'm Helen Trisha Laurencine Ndiaye, but you can call me Helen</h1>
 <h3 align="center">🎨a dynamic web developer and digital artist obsessed with creative design.🚀🌈</h3>
 <img align="right" alt="coding" width="250" src="https://github.com/HELENTRISHA/helentrisha/blob/8fb79325698849174436f1f777f0e41398bd3aed/githubanime.gif">
