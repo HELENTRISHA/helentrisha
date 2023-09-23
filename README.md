@@ -1,6 +1,6 @@
 ![logo](https://github.com/HELENTRISHA/helentrisha/blob/2228cdf0d228d48b3c775b7379f439acb6fd6d09/banner.png)
 <h1 align="center">Hi 👋, I'm Helen Trisha Laurencine Ndiaye</h1>
-<h3 align="center">🎨a dynamic web developer and digital artist obsessed with creative design. I love blending code and canvas to create captivating digital experiences.🚀🌈</h3>
+<h3 align="center">🎨A dynamic web developer and digital artist obsessed with creative design. I love blending code and canvas to create captivating digital experiences.🚀🌈</h3>
 
 <img align="right" alt="coding" width="200" src="https://github.com/HELENTRISHA/helentrisha/blob/8fb79325698849174436f1f777f0e41398bd3aed/githubanime.gif">
 
